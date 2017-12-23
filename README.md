@@ -1,6 +1,7 @@
-[![Build Status](https://travis-ci.org/roman-bessmertnyi/Neo4j_Java_SocialNetwork.svg?branch=master)](https://travis-ci.org/roman-bessmertnyi/Neo4j_Java_SocialNetwork)
-[![codecov](https://codecov.io/gh/roman-bessmertnyi/Neo4j_Java_SocialNetwork/branch/master/graph/badge.svg)](https://codecov.io/gh/roman-bessmertnyi/Neo4j_Java_SocialNetwork)
-[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/7ef87334b5fa406286ab383e0a3d4b38)](https://www.codacy.com/app/roman-bessmertnyi/Neo4j_Java_SocialNetwork?utm_source=github.com&utm_medium=referral&utm_content=roman-bessmertnyi/Neo4j_Java_SocialNetwork&utm_campaign=Badge_Coverage)
+[![codecov](https://codecov.io/gh/MaxDmytruk/Lab_4/branch/master/graph/badge.svg)](https://github.com/BoikoBohdan/BD_3LABa)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6af119bc0a884edd82ff7a493fba58bb)](https://github.com/BoikoBohdan/BD_3LABa?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BoikoBohdan/JAVA&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/BoikoBohdan/BD_3LABa.svg?branch=master)](https://travis-ci.org/BoikoBohdan/BD_3LABa)
+[![Code Coverage](https://img.shields.io/codecov/c/github/pvorb/property-providers/develop.svg)](https://codecov.io/github/pvorb/property-providers?branch=develop)
 
 ----------
 
